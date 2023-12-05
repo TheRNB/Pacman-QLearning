@@ -1,5 +1,5 @@
 # Pacman-QLearning
-![]((https://github.com/TheRNB/Pacman-QLearning/blob/main/Illustration.gif))
+![](https://github.com/TheRNB/Pacman-QLearning/blob/main/Illustration.gif)
 An AI solution utilizing Q-learning to navigate and solve Pacman board configurations.
 
 This is an implementation of solving the QLearning method. 
